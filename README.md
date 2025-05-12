@@ -1,4 +1,6 @@
 Overview
+
+
 SentiFusion is a comprehensive sentiment analysis pipeline that processes a large Twitter dataset to extract insights using both traditional lexicon-based and modern transformer-based approaches. The project integrates data preprocessing, TF-IDF feature extraction, sentiment scoring using VADER and RoBERTa, and even extends to training and evaluating machine learning classifiers. Comparative visualizations and error analysis further highlight the strengths and limitations of each method, paving the way for future improvements.
 Features
 Data Preprocessing:
